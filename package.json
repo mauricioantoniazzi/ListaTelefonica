@@ -1,0 +1,26 @@
+{
+  "name": "Lista Telefônica",
+  "version": "1.0.0",
+  "description": "Simples agenda de contato utilizando um servidor web no frontend e o backend rodando na porta 3412",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "Angularjs",
+    "youtube",
+    "learningcode",
+    "javascript",
+    "express",
+    "node"
+  ],
+  "dependencies": {
+    "express": "^3.x"
+  },
+  "author": "Mauricio Antoniazzi - Aprendendo AngularJS com o curso do Rodrigo Branas",
+  "license": "MIT",
+  "homepage": "https://github.com/mauricioantoniazzi/ListaTelefonica.git"
+}
